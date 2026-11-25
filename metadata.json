@@ -2,5 +2,7 @@
   "name": "Folio",
   "description": "A distraction-free AI writing studio for multimodal drafting, inline feedback weaving, and proactive editorial margin suggestions.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
